@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "753078803516",
+    "project_id": "budget-tracker-a1a3b",
+    "storage_bucket": "budget-tracker-a1a3b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:753078803516:android:849dcdf6a96932f278f739",
+        "android_client_info": {
+          "package_name": "com.doodlebug.fin_tech_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "753078803516-o6j30t4gmr17p2f1c6hebmluf314k14c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-R3LwIxc7k4Q2PR8Iq9RpG945eZX6dAc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "753078803516-o6j30t4gmr17p2f1c6hebmluf314k14c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
