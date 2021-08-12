@@ -27,7 +27,7 @@ class _SignUpState extends State<SignUp> {
           },
         ),
         title: Text(
-          'Budget',
+          'Chloe',
           style: TextStyle(color: kWhite),
         ),
         centerTitle: true,

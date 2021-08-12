@@ -27,7 +27,7 @@ class _FindAccountState extends State<FindAccount> {
           },
         ),
         title: Text(
-          'Budget',
+          'Chloe',
           style: TextStyle(color: kWhite),
         ),
         centerTitle: true,

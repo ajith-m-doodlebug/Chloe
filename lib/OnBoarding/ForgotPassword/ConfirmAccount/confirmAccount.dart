@@ -37,7 +37,7 @@ class _ConfirmAccountState extends State<ConfirmAccount> {
           },
         ),
         title: Text(
-          'Budget',
+          'Chloe',
           style: TextStyle(color: kWhite),
         ),
         centerTitle: true,

@@ -2,7 +2,7 @@
     package="com.doodlebug.fin_tech_app">
     <uses-permission android:name="android.permission.INTERNET"/>
    <application
-        android:label="Budget Tracker"
+        android:label="Chloe"
         android:icon="@mipmap/ic_launcher">
         <activity
             android:name=".MainActivity"

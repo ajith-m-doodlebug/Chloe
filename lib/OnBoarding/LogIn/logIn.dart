@@ -16,7 +16,7 @@ class _LogInState extends State<LogIn> {
         backgroundColor: backgroundColor,
         elevation: 0.0,
         title: Text(
-          'Budget',
+          'Chloe',
           style: TextStyle(color: kWhite),
         ),
         centerTitle: true,

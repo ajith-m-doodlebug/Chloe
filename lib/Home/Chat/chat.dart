@@ -1,6 +1,5 @@
 import 'package:fin_tech_app/Colors/colors.dart';
 import 'package:flutter/material.dart';
-
 import 'chatMessageArea.dart';
 
 class Chat extends StatefulWidget {
@@ -23,7 +22,7 @@ class _ChatState extends State<Chat> {
               padding: EdgeInsets.only(top: 20.0, bottom: 20.0),
               child: Center(
                 child: Text(
-                  '👧 Chloe 💸',
+                  'Chloe 😃',
                   style: TextStyle(
                     color: kWhite,
                     fontSize: 20.0,
